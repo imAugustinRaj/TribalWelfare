@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "417202269708",
+    "firebase_url": "https://tribal-mota.firebaseio.com",
+    "project_id": "tribal-mota",
+    "storage_bucket": "tribal-mota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417202269708:android:801fd280e97e788d",
+        "android_client_info": {
+          "package_name": "com.example.vig.sih_mota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417202269708-sk6ej7e0eacebqg9857b9arrklanjkf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vig.sih_mota",
+            "certificate_hash": "b4806024b0884ddbfa4cfce99e58bc6ca53f4d1f"
+          }
+        },
+        {
+          "client_id": "417202269708-l9vkebsn1b5tihbpkbs4ktp3a35d8hnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCtEjBg22sxX8hYeLq-C-doczLO_eu3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417202269708-l9vkebsn1b5tihbpkbs4ktp3a35d8hnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

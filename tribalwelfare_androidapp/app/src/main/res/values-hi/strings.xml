@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sih_mota</string>
+
+    <string name="user_name">तस्वीर डालिये</string>
+    <string name="pass_name">पारण शब्द</string>
+    <string name="forgot_name">पासवर्ड भूल गए?</string>
+    <string name="login_name">प्रवेश करें</string>
+    <string name="signup_name">साइन अप करें</string>
+    <string name="otp">आपका आधार नंबर दर्ज करें.</string>
+    <string name="field_1">नाम</string>
+    <string name="field_2">dd.mm.yyyy</string>
+    <string name="field_3">लिंग के</string>
+    <string name="field_4">स्थान</string>
+    <string name="field_5">मोबाइल नंबर</string>
+    <string name="otp_send">एक ओ.टी.पी. पिन आपके मोबाइल नंबर पर पंजीकृत हो जाएगा।</string>
+    <string name="verify">जमा करें</string>
+    <string name="next">अगला</string>
+    <string name="otp_no">ओटीपी पिन दर्ज करें</string>
+    <string name="resend">ओटीपी पुनः भेजें!</string>
+    <string name="valid">सत्यापित करें</string>
+    <string name="pass_key1">उपयोगकर्ता नाम</string>
+    <string name="pass_key2">पास वर्ड दर्ज करें</string>
+    <string name="pass_key3">पासवर्ड फिर से लिखें</string>
+    <string name="pass_btn">जमा करें</string>
+    <string name="home1">चित्र / वीडियो अपलोड करें</string>
+    <string name="home2">प्रश्नों</string>
+    <string name="home3">योजनाएं</string>
+    <string name="home4">प्रोफ़ाइल अपडेट करें</string>
+    <string name="add_row">लाइन जोड़ो</string>
+    <string name="Upload_Video">विडियो को अॅॅपलोड करें</string>
+    <string name="Image_upload">तस्वीर डालिये</string>
+    <string name="upld">अपलोड करने के लिए वीडियो ब्राउज़ करें</string>
+    <string name="Imgup">अपलोड करने के लिए छवि ब्राउज़ करें</string>
+    <string name="up">तस्वीर डालिये</string>
+    <string name="Image_name">छवि का नाम</string>
+    <string name="REGISTRATION">पंजीकरण</string>
+    <string name="Adhaar_Mode">आधार मोड</string>
+    <string name="OR">या</string>
+    <string name="Manual_Mode">मैन्युअल तरीके से</string>
+    <string name="Write">एक संदेश लिखें </string>
+
+    <string name="ARTISAN">कारीगर</string>
+    <string name="MOTA">चुटकुला</string>
+    <string name="COMMONER">सामान्य व्यक्ति</string>
+    <string name="File_Upload">फाइल अपलोड</string>
+    <string name="Upload">अपलोड</string>
+    <string name="Sch">योजना / दस्तावेज अपलोड करें</string>
+    <string name="Queries">प्रश्नों</string>
+    <string name="I">उत्पाद देखें / बेचें</string>
+    <string name="V">योजना / दस्तावेज देखें</string>
+    <string name="k">उत्पाद देखें / खरीदें</string>
+</resources>

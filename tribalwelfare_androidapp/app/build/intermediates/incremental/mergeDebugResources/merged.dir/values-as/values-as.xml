@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ARTISAN">আর্টিসান </string>
+    <string name="Adhaar_Mode">আধার মোড</string>
+    <string name="COMMONER">কমনের </string>
+    <string name="File_Upload">ফাইল  আপলোড </string>
+    <string name="I">ভিউ /সেল  প্রোডাক্টস </string>
+    <string name="Image_name">চিত্রের নাম</string>
+    <string name="Image_upload">চিত্র আপলোড</string>
+    <string name="Imgup">আপলোড করার জন্য ছবি ব্রাউজ করুন</string>
+    <string name="MOTA">মোটা </string>
+    <string name="Manual_Mode">ম্যানুয়াল মোডে</string>
+    <string name="OR">অথবা</string>
+    <string name="Queries">করিস </string>
+    <string name="REGISTRATION">নিবন্ধীকরণ</string>
+    <string name="Sch">আপলোড  স্কিম/ডকুমেন্ট </string>
+    <string name="Upload">আপলোড </string>
+    <string name="Upload_Video">ভিডিও আপলোড কর</string>
+    <string name="V">ভিউ  স্কিম / ডকুমেন্ট </string>
+    <string name="Write">একটা বার্তা লিখুন..</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"গৃহ পৃষ্ঠালৈ যাওক"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ওপৰলৈ যাওক"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"অধিক বিকল্প"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"সম্পন্ন কৰা হ\'ল"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"সকলো চাওক"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"এটা এপ্ বাছনি কৰক"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"অফ কৰক"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"অন কৰক"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"CTRL+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"মচক"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"এণ্টাৰ"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"ফাংশ্বন+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"মেটা+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"শ্বিফ্ট+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"স্পেচ"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"মেনু+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"অনুসন্ধান কৰক…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"প্ৰশ্ন মচক"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"সন্ধান কৰিব খোজা প্ৰশ্ন"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"সন্ধান কৰক"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"প্ৰশ্ন দাখিল কৰক"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"কণ্ঠধ্বনিৰ যোগেৰে সন্ধান কৰক"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>ৰ জৰিয়তে শ্বেয়াৰ কৰক"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"সংকুচিত কৰক"</string>
+    <string name="add_row">সারি যোগ করুন</string>
+    <string name="app_name">sih_mota</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"বিবিধ"</string>
+    <string name="field_1">নাম</string>
+    <string name="field_2">dd.mm.yyyy</string>
+    <string name="field_3">লিঙ্গ</string>
+    <string name="field_4">অবস্থান</string>
+    <string name="field_5">মোবাইল নাম্বার</string>
+    <string name="forgot_name">পাসওয়ার্ড ভুলে গেছেন?</string>
+    <string name="home1">ছবি আপলোড / ভিডিও</string>
+    <string name="home2">ক্যোয়ারী</string>
+    <string name="home3">স্কিম</string>
+    <string name="home4">প্রফাইল হালনাগাদ</string>
+    <string name="k">ভিউ /বুয়া  প্রোডাক্ট </string>
+    <string name="login_name">লগইন</string>
+    <string name="next">পরবর্তী</string>
+    <string name="otp">আপনার আধার নাম লিখুন</string>
+    <string name="otp_no">ওটিপি পিন লিখুন</string>
+    <string name="otp_send">একটি ওটিপি পিন আপনার সাম্প্রতিক সময়ে মোবাইল নাম্বার নিবন্ধিত হবে !!</string>
+    <string name="pass_btn">জমা</string>
+    <string name="pass_key1">ব্যবহারকারীর নাম</string>
+    <string name="pass_key2">পাসওয়ার্ড লিখুন</string>
+    <string name="pass_key3">পাসওয়ার্ড পুনরায় টাইপ করুন</string>
+    <string name="pass_name">পাসওয়ার্ড</string>
+    <string name="resend">রেসেন্ট ওটিপি</string>
+    <string msgid="146198913615257606" name="search_menu_title">"অনুসন্ধান কৰক"</string>
+    <string name="signup_name">নিবন্ধন করুন</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string name="up">চিত্র আপলোড</string>
+    <string name="upld">আপলোড করার জন্য ভিডিও ব্রাউজ করুন</string>
+    <string name="user_name">ব্যবহারকারীর নাম</string>
+    <string name="valid">যাচাই করুন</string>
+    <string name="verify">জমা দিন</string>
+</resources>

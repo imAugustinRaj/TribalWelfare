@@ -1,0 +1,85 @@
+<resources>
+
+
+    <string-array name="array_technology">
+        <item>Assamese</item>
+        <item>Bengali</item>
+        <item>English</item>
+        <item>Hindi</item>
+
+    </string-array>
+    <string name="app_name">sih_mota</string>
+    <string name="user_name">User Name</string>
+    <string name="pass_name">Password</string>
+    <string name="forgot_name">Forgot Password?</string>
+    <string name="login_name">LOGIN</string>
+    <string name="signup_name">Sign up</string>
+    <string name="otp"> Enter Your Adhaar No</string>
+    <string name="field_1">NAME</string>
+    <string name="field_2">dd.mm.yyyy</string>
+    <string name="field_3">GENDER</string>
+    <string name="field_4">LOCATION</string>
+    <string name="field_5">MOBILE NO</string>
+    <string name="otp_send">AN OTP PIN WILL SHORTLY BE SENT TO YOU REGISTERED MOBILE NUMBER !!</string>
+    <string name="verify">Submit</string>
+    <string name="next">Next</string>
+    <string name="otp_no">Enter OTP Pin</string>
+    <string name="resend">Resend otp!</string>
+    <string name="valid">Verify</string>
+    <string name="pass_key1">User Name</string>
+    <string name="pass_key2">Enter Password</string>
+    <string name="pass_key3">Retype Password</string>
+    <string name="pass_btn">SUBMIT</string>
+    <string name="home1">Upload Images/Videos</string>
+    <string name="home2">Queries</string>
+    <string name="home3">Schemes</string>
+    <string name="home4">Update Profile</string>
+    <string name="add_row">Add Row</string>
+    <string name="Upload_Video">Upload Video</string>
+    <string name="Image_upload">Upload Image</string>
+    <string name="upld">Browse Video to upload</string>
+    <string name="Imgup">Browse image to upload</string>
+    <string name="up">Upload image</string>
+    <string name="Image_name">Image name</string>
+    <string name="REGISTRATION">REGISTRATION</string>
+    <string name="Adhaar_Mode">Adhaar Mode</string>
+    <string name="OR">OR</string>
+    <string name="Manual_Mode">Manual Mode</string>
+
+
+    <string name="ARTISAN">ARTISAN</string>
+    <string name="MOTA">MOTA</string>
+    <string name="COMMONER">COMMONER</string>
+    <string name="File_Upload">File Upload</string>
+    <string name="Upload">Upload</string>
+    <string name="Sch">Upload Scheme/Document</string>
+    <string name="Queries">Queries</string>
+    <string name="I">View/Sell Products</string>
+    <string name="V">View Scheme/ Document</string>
+    <string name="k">View/Buy Product</string>
+
+
+
+    <string name="Write">Write a message...</string>
+
+    <string name="t1">Ministry of Tribal Affairs</string>
+    <string name="t2">Registration</string>
+    <string name="t3">NewUser</string>
+    <string name="t4">OldUser</string>
+    <string name="t5">Enter your name</string>
+    <string name="t6">Enter your mobile number</string>
+    <string name="t7">Successfully Registered!!!</string>
+    <string name="t8">Welcome!!!</string>
+    <string name="t9">Any Help???</string>
+    <string name="t10">Login User</string>
+    <string name="t11">New User</string>
+    <string name="t12">Existing User</string>
+    <string name="enter">Enter</string>
+    <string name="submit">Submit</string>
+    <string name="succ">Continue</string>
+    <string name="upi">Upload Image</string>
+    <string name="que">Queries</string>
+    <string name="schemes">Schemes</string>
+
+
+</resources>

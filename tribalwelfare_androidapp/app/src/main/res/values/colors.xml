@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorbg">#00897b</color>
+    <color name="login_text">#ffffff</color>
+    <color name="signup">#e4223c</color>
+    <color name="signup_decesition_bg">#8d6e63</color>adhaar_page_bg
+    <color name="adhaar_page_bg">#6d4c41</color>
+    <color name="profile_bg">#030321</color>otp_verify
+    <color name="otp_verify">#030321</color>
+    <color name="pass_reg_bg">#546e7a</color>
+</resources>

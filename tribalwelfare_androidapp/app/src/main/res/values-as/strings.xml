@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sih_mota</string>
+    <string name="user_name">ব্যবহারকারীর নাম</string>
+    <string name="pass_name">পাসওয়ার্ড</string>
+    <string name="forgot_name">পাসওয়ার্ড ভুলে গেছেন?</string>
+    <string name="login_name">লগইন</string>
+    <string name="signup_name">নিবন্ধন করুন</string>
+    <string name="otp">আপনার আধার নাম লিখুন</string>
+    <string name="field_1">নাম</string>
+    <string name="field_2">dd.mm.yyyy</string>
+    <string name="field_3">লিঙ্গ</string>
+    <string name="field_4">অবস্থান</string>
+    <string name="field_5">মোবাইল নাম্বার</string>
+    <string name="otp_send">একটি ওটিপি পিন আপনার সাম্প্রতিক সময়ে মোবাইল নাম্বার নিবন্ধিত হবে !!</string>
+    <string name="verify">জমা দিন</string>
+    <string name="next">পরবর্তী</string>
+    <string name="otp_no">ওটিপি পিন লিখুন</string>
+    <string name="resend">রেসেন্ট ওটিপি</string>
+    <string name="valid">যাচাই করুন</string>
+    <string name="pass_key1">ব্যবহারকারীর নাম</string>
+    <string name="pass_key2">পাসওয়ার্ড লিখুন</string>
+    <string name="pass_key3">পাসওয়ার্ড পুনরায় টাইপ করুন</string>
+    <string name="pass_btn">জমা</string>
+    <string name="home1">ছবি আপলোড / ভিডিও</string>
+    <string name="home2">ক্যোয়ারী</string>
+    <string name="home3">স্কিম</string>
+    <string name="home4">প্রফাইল হালনাগাদ</string>
+    <string name="add_row">সারি যোগ করুন</string>
+    <string name="Upload_Video">ভিডিও আপলোড কর</string>
+    <string name="Image_upload">চিত্র আপলোড</string>
+    <string name="upld">আপলোড করার জন্য ভিডিও ব্রাউজ করুন</string>
+    <string name="Imgup">আপলোড করার জন্য ছবি ব্রাউজ করুন</string>
+    <string name="up">চিত্র আপলোড</string>
+    <string name="Image_name">চিত্রের নাম</string>
+    <string name="REGISTRATION">নিবন্ধীকরণ</string>
+    <string name="Adhaar_Mode">আধার মোড</string>
+    <string name="OR">অথবা</string>
+    <string name="Manual_Mode">ম্যানুয়াল মোডে</string>
+    <string name="Write">একটা বার্তা লিখুন..</string>
+
+
+    <string name="ARTISAN">আর্টিসান </string>
+    <string name="MOTA">মোটা </string>
+    <string name="COMMONER">কমনের </string>
+    <string name="File_Upload">ফাইল  আপলোড </string>
+    <string name="Upload">আপলোড </string>
+    <string name="Sch">আপলোড  স্কিম/ডকুমেন্ট </string>
+    <string name="Queries">করিস </string>
+    <string name="I">ভিউ /সেল  প্রোডাক্টস </string>
+    <string name="V">ভিউ  স্কিম / ডকুমেন্ট </string>
+    <string name="k">ভিউ /বুয়া  প্রোডাক্ট </string>
+
+
+</resources>
